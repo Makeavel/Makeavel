@@ -4,6 +4,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Makeavel&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
+  <h2>Linguagens domidadas<h2>
   <img align="center" alt="Mkvl-K" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Mkvl-C" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
    
