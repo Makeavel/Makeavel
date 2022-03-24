@@ -14,7 +14,7 @@
 
 <!-- imagens das stacks -->
 
-<div style="display: inline_block" align="center"><br>
+<div style="display: flex" align="center"><br>
   <h3>Stacks dominadas<h3>
   <img align="center" alt="Mkvl-K" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Mkvl-C" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
