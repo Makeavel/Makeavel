@@ -19,7 +19,6 @@
 	  <a href="https://github.com/anuraghazra/github-readme-stats">
 	    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Makeavel&layout=compact&hide=Batchfile,css,shell,html&theme=dark" />
 	  </a>
-
 	  <a href="https://github.com/anuraghazra/github-readme-stats">
 	    <img style="width:400px;" align="right" src="https://github-readme-stats.vercel.app/api?username=Makeavel&theme=dark" / >
 	  </a>
