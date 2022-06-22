@@ -44,9 +44,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-https://github.com/devicons/devicon/tree/master/icons  tecnologias
 https://dev.to/envoy_/150-badges-for-github-pnk  link das plataformas
-
 
 https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white // java
 https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white // kotlin
