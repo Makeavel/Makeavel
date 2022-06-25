@@ -40,7 +40,7 @@
 	</a>
 </div>
 <div style="display: inline_block" align="center">	
-<img src="https://www.piskelapp.com/static/resources/home/features/feature-open-source@2x.gif" />
+<img align = "center" src="https://www.piskelapp.com/static/resources/home/features/feature-open-source@2x.gif" />
 </div>
 <!--
 **Makeavel/Makeavel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
