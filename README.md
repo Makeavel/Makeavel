@@ -39,10 +39,9 @@
 	    <img style="width:400px;" align="right" src="https://github-readme-stats.vercel.app/api?username=Makeavel&theme=dark" />
 	</a>
 </div>
-<div>
 
-
-
+<img src="https://www.piskelapp.com/static/resources/home/features/feature-open-source@2x.gif" />
+</div>
 <!--
 **Makeavel/Makeavel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![star-wars 844b5edc165817b93dbfbfd22ff3b214](https://user-images.githubusercontent.com/26925002/138603166-2a00379e-bfc8-4c1a-b581-0f2809c42e4e.gif)
