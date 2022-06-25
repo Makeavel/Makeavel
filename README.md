@@ -39,7 +39,7 @@
 	    <img style="width:400px;" align="right" src="https://github-readme-stats.vercel.app/api?username=Makeavel&theme=dark" />
 	</a>
 </div>
-
+<div style="display: inline_block" align="center">	
 <img src="https://www.piskelapp.com/static/resources/home/features/feature-open-source@2x.gif" />
 </div>
 <!--
