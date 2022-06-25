@@ -1,30 +1,51 @@
 ### Hi there 👋
 
+<!--div>
+   <h2 text align="center">MY SKILLS</h2>
+</div>  
+<div style="display: inline_block" align="center"-->
+
+<div>
+   <h2 text align="center">Minhas Skills</h2>
+</div>  
+
+<div style="display: inline_block" align="center">
+
+	
 <div style = "align-items: center;">
 	<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 	<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 	<img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
 	<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-	<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
 	<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white ">
+	</br>
+	<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
 	<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white ">
 	<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white ">
 	<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white  ">
 	<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white  ">
 </div>
-	<br/>
-	<br/>	
+	
+<div style="display: inline_block" align="center">
+	
+	
+<div>
+   <h2 text align="center"></h2>
+</div>  
+<div style="display: inline_block" align="center">	
 <div>
 	<a href="https://github.com/anuraghazra/github-readme-stats">
 	    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Makeavel&layout=compact&hide=Batchfile,css,shell,html&theme=dark" />
 	    <img style="width:400px;" align="right" src="https://github-readme-stats.vercel.app/api?username=Makeavel&theme=dark" />
 	</a>
 </div>
+<div>
+
 
 
 <!--
 **Makeavel/Makeavel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![star-wars 844b5edc165817b93dbfbfd22ff3b214](https://user-images.githubusercontent.com/26925002/138603166-2a00379e-bfc8-4c1a-b581-0f2809c42e4e.gif)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
