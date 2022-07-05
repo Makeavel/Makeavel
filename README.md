@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, i´m Paulo 👋
 
 <!--div>
    <h2 text align="center">MY SKILLS</h2>
@@ -65,4 +65,5 @@ https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&log
 https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white    // sql
 https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white    // heroku
 https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white  // trello
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=makeavel&label=Profile%20views&color=0e75b6&style=flat" alt="makeavel" /> </p> // prifileViews
 -->
