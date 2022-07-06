@@ -1,12 +1,14 @@
-### Hi there, i´m Paulo 👋
+### Hi there, I´m Paulo, a Developer from Brazil! 👋
 
-<!--div>
-   <h2 text align="center">MY SKILLS</h2>
-</div>  
+   <h2 text align="center"></h2>
+   
+<p>- 🔭 I'm a Computer Science computer student</p>
+<p>- 🌱 I'm currently learning Java - SpringBoot</p> 
+
 <div style="display: inline_block" align="center"-->
 
 <div>
-   <h2 text align="center">Minhas Skills</h2>
+   <h2 text align="center">My Skills</h2>
 </div>  
 
 <div style="display: inline_block" align="center">	
