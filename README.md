@@ -3,7 +3,7 @@
    <h2 text align="center"></h2>
    
 <p>- 🔭 I'm a Computer Science computer student</p>
-<p>- 🌱 I'm currently learning Java - SpringBoot</p> 
+<p>- 🌱 I'm currently learning Java with SpringBoot</p> 
 
 <div style="display: inline_block" align="center"-->
 
