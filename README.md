@@ -31,15 +31,13 @@
 <div>
    <h2 text align="center"></h2>
 </div>  
+	
+##### Activity
+
 <div style="display: inline_block" align="center">	
 	<div>
-		<a href="https://github.com/anuraghazra/github-readme-stats">
 		    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Makeavel&layout=compact&hide=Batchfile,css,shell,html&theme=dark" />	
-		    <img style="width:400px;" align="right" src="https://github-readme-stats.vercel.app/api?username=Makeavel&theme=dark" />
-		</a>
-	</div>
-<div style="display: inline_block" align="center">	
-
+	<div style="display: inline_block" align="center">	
 </div>
 <!--
 **Makeavel/Makeavel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
